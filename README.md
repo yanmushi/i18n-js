@@ -1,0 +1,2 @@
+# i18n-js
+基于Spring的org.springframework.context.support.ResourceBundleMessageSource，封装扩展出对js脚本中获取messageBundle的servlet。
